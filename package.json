@@ -1,0 +1,26 @@
+{
+  "name": "yenimejs",
+  "version": "1.0.0",
+  "description": "JavaScript animating and designing service",
+  "main": "index.js",
+  "author": "YEETEDWIN",
+  "files": [
+    "files"
+  ],
+  "scripts": {
+    "build": "node build"
+  },
+  "keywords": [
+    "yenime",
+    "anime",
+    "javascript",
+    "CSS"
+  ],
+  "devDependencies": {
+    "gzip-size": "^4.1.0",
+    "pretty-bytes": "^4.0.2",
+    "rollup": "^0.53.2",
+    "rollup-plugin-buble": "^0.18.0",
+    "uglify-js": "^3.3.4"
+  }
+}
