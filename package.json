@@ -1,21 +1,30 @@
 {
   "name": "yenimejs",
   "version": "1.0.0",
-  "description": "JavaScript animating and designing service",
-  "main": "index.js",
-  "author": "YEETEDWIN",
+  "homepage": "https://github.com/YEETEDWIN/YenimeJS#readme",
+  "repository": "YEETEDWIN/YenimeJS",
+  "description": "The animation and physics toolkit",
+  "umd:main": "lib/yenime.min.js",
+  "module": "lib/yenime.es.js",
+  "main": "lib/yenime.js",
+  "license": "MIT",
+  "author": "YEETEDWIN <yeetedwin@protonmail.com",
   "files": [
-    "files"
+    "lib"
   ],
   "scripts": {
     "build": "node build"
   },
   "keywords": [
-    "yenime",
-    "anime",
-    "javascript",
-    "CSS"
+    "animation",
+    "physics",
+    "easy",
+    "transforms",
+    "javascript"
   ],
+  "bugs": {
+    "url": "https://github.com/YEETEDWIN/YenimeJS/issues"
+  },
   "devDependencies": {
     "gzip-size": "^4.1.0",
     "pretty-bytes": "^4.0.2",
