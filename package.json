@@ -3,9 +3,8 @@
   "version": "1.0.0",
   "homepage": "https://github.com/YEETEDWIN/YenimeJS#readme",
   "repository": "YEETEDWIN/YenimeJS",
-  "description": "The animation and physics toolkit",
+  "description": "The animation and design toolkit",
   "umd:main": "lib/yenime.min.js",
-  "module": "lib/yenime.es.js",
   "main": "lib/yenime.js",
   "license": "MIT",
   "author": "YEETEDWIN <yeetedwin@protonmail.com",
@@ -27,9 +26,6 @@
   },
   "devDependencies": {
     "gzip-size": "^4.1.0",
-    "pretty-bytes": "^4.0.2",
-    "rollup": "^0.53.2",
-    "rollup-plugin-buble": "^0.18.0",
     "uglify-js": "^3.3.4"
   }
 }
