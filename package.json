@@ -1,11 +1,11 @@
 {
   "name": "yenimejs",
   "version": "1.0.0",
-  "homepage": "https://github.com/YEETEDWIN/YenimeJS#readme",
-  "repository": "YEETEDWIN/YenimeJS",
+  "homepage": "https://github.com/YEETEDWIN/DesimeJS#readme",
+  "repository": "YEETEDWIN/DesimeJS",
   "description": "The animation and design toolkit",
-  "umd:main": "lib/yenime.min.js",
-  "main": "lib/yenime.js",
+  "umd:main": "lib/desime.min.js",
+  "main": "lib/desime.js",
   "license": "MIT",
   "author": "YEETEDWIN <yeetedwin@protonmail.com",
   "files": [
@@ -22,7 +22,7 @@
     "javascript"
   ],
   "bugs": {
-    "url": "https://github.com/YEETEDWIN/YenimeJS/issues"
+    "url": "https://github.com/YEETEDWIN/DesimeJS/issues"
   },
   "devDependencies": {
     "gzip-size": "^4.1.0",
